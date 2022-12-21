@@ -34,7 +34,7 @@ name=input("please enter a name:")
 print("original_string:",name)
 print("middle_char:"middle_char(name))
 
-
+"""
 
 ## program to Read n numbers from the user and display the average.
 n = int(input("Enter number:"))
@@ -46,5 +46,6 @@ print("Sum of first ", n, "numbers is: ", sum)
 average = sum / n
 print("Average of ", n, "numbers is: ", average)
 
-"""
+print("hello")
+
 
